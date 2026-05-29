@@ -1,0 +1,1 @@
+import{b as e,J as t,g as a}from"./chunks/framework.YUtxq_Gs.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/update.md","filePath":"en/update.md","lastUpdated":null}'),n={name:"en/update.md"};function r(s,d,o,p,c,i){return t(),a("div")}const m=e(n,[["render",r]]);export{_ as __pageData,m as default};

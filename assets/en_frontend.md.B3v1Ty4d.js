@@ -1,0 +1,1 @@
+import{b as e,J as t,g as n}from"./chunks/framework.YUtxq_Gs.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/frontend.md","filePath":"en/frontend.md","lastUpdated":null}'),a={name:"en/frontend.md"};function r(o,s,d,c,f,p){return t(),n("div")}const _=e(a,[["render",r]]);export{l as __pageData,_ as default};
